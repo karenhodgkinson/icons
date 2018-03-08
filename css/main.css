@@ -1,0 +1,28 @@
+.list-group {
+  padding: 0;
+  list-style-type: none;
+}
+
+.list-group-item {
+  display: block;
+}
+
+.icon {
+  display: inline-block;
+  background: transparent none no-repeat center center;
+  background-size: contain;
+}
+
+.i-64 {
+  height: 64px;
+  width: 64px;
+}
+
+.i-hadrosaur {
+  background-image: url(".../img/hadrosaur.svg");
+}
+
+.icon-link {
+  color: #000;
+  text-decoration: none;
+}
